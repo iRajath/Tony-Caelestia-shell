@@ -1,0 +1,7 @@
+*.swp
+*.swo
+.DS_Store
+
+hypr/hyprland.log
+
+caelestia/*.log
